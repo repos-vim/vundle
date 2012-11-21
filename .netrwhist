@@ -1,0 +1,3 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =1
+let g:netrw_dirhist_1='/home/kurtosis/bin/projects/lift/liftstack.test/lift-lift_24_sbt-61d24f7/test/lift_blank/project/build'
